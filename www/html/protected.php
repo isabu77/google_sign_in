@@ -7,7 +7,7 @@ if (!isset($_SESSION["user"])) {
 }
 
 // declarer la variable $userMail
-//$userMail = 
+$userMail = $_SESSION["user"]["email"];
 
 include 'header.php';
 ?>

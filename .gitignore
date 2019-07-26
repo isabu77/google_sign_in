@@ -1,0 +1,4 @@
+.vscode
+www/vendor
+www/composer.lock
+www/html/google.php
